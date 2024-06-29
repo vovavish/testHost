@@ -1,0 +1,21 @@
+/*
+  Переменные для вашего проекта
+  и их переопределение под различные устройства
+*/
+
+:root {
+  --accent-color: #ff0070;
+  --text-color: #f1b2ce;
+  --accent-text-color: #000028;
+  --accent-header-color: #db00ff;
+  --color-shadow: #ff0070;
+
+  --main-font-family: 'IBM Plex mono', monospace;
+  --display: visible;
+  --bg-color: #000028;
+  --button-color: #ff0070;
+  --button-color-hover: rgba(255, 0, 112, 0.4);
+  --bg-image: url(../images/cover-image-dark.png);
+  --thematic-block-header_color: #ff0070;
+  --decorated-zone-color: #ff0070;
+}
